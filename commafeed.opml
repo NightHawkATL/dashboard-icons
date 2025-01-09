@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <dateCreated>Thu, 09 Jan 2025 22:47:28 GMT</dateCreated>
+    <title>admin subscriptions in CommaFeed</title>
+  </head>
+  <body>
+    <outline text="Home Assistant &amp; Add-Ons" title="Home Assistant &amp; Add-Ons">
+      <outline text="hass-music-assistant" type="rss" title="hass-music-assistant" xmlUrl="https://github.com/music-assistant/hass-music-assistant/releases.atom" htmlUrl="https://github.com/music-assistant/hass-music-assistant/releases.atom" />
+      <outline text="alexa_media_player" type="rss" title="alexa_media_player" xmlUrl="https://github.com/alandtse/alexa_media_player/releases.atom" htmlUrl="https://github.com/alandtse/alexa_media_player/releases.atom" />
+      <outline text="everything-presence-lite" type="rss" title="everything-presence-lite" xmlUrl="https://github.com/EverythingSmartHome/everything-presence-lite/releases.atom" htmlUrl="https://github.com/EverythingSmartHome/everything-presence-lite/releases.atom" />
+      <outline text="node-red" type="rss" title="node-red" xmlUrl="https://github.com/node-red/node-red/releases.atom" htmlUrl="https://github.com/node-red/node-red/releases.atom" />
+      <outline text="addon-vscode" type="rss" title="addon-vscode" xmlUrl="https://github.com/hassio-addons/addon-vscode/releases.atom" htmlUrl="https://github.com/hassio-addons/addon-vscode/releases.atom" />
+      <outline text="cloudflared" type="rss" title="cloudflared" xmlUrl="https://github.com/cloudflare/cloudflared/releases.atom" htmlUrl="https://github.com/cloudflare/cloudflared/releases.atom" />
+      <outline text="ESPresense" type="rss" title="ESPresense" xmlUrl="https://github.com/ESPresense/ESPresense/releases.atom" htmlUrl="https://github.com/ESPresense/ESPresense/releases.atom" />
+      <outline text="esphome" type="rss" title="esphome" xmlUrl="https://github.com/esphome/esphome/releases.atom" htmlUrl="https://github.com/esphome/esphome/releases.atom" />
+      <outline text="HA Core Updates" type="rss" title="HA Core Updates" xmlUrl="https://github.com/home-assistant/core/releases.atom" htmlUrl="https://github.com/home-assistant/core/releases.atom" />
+      <outline text="hassio-google-drive-backup" type="rss" title="hassio-google-drive-backup" xmlUrl="https://github.com/sabeechen/hassio-google-drive-backup/releases.atom" htmlUrl="https://github.com/sabeechen/hassio-google-drive-backup/releases.atom" />
+      <outline text="HA supervisor Updates" type="rss" title="HA supervisor Updates" xmlUrl="https://github.com/home-assistant/supervisor/releases.atom" htmlUrl="https://github.com/home-assistant/supervisor/releases.atom" />
+      <outline text="UZG-01 firmware" type="rss" title="UZG-01 firmware" xmlUrl="https://github.com/mercenaruss/uzg-firmware/releases.atom" htmlUrl="https://github.com/mercenaruss/uzg-firmware/releases.atom" />
+      <outline text="XZG (UZG-01)" type="rss" title="XZG (UZG-01)" xmlUrl="https://github.com/xyzroe/XZG/releases.atom" htmlUrl="https://github.com/xyzroe/XZG/releases.atom" />
+      <outline text="zwave-js-ui" type="rss" title="zwave-js-ui" xmlUrl="https://github.com/zwave-js/zwave-js-ui/releases.atom" htmlUrl="https://github.com/zwave-js/zwave-js-ui/releases.atom" />
+    </outline>
+    <outline text="Meraki" title="Meraki">
+      <outline text="Meraki Firmware Upgrades" type="rss" title="Meraki Firmware Upgrades" xmlUrl="https://community.meraki.com/yuzje69629/rss/board?board.id=firmwareupgrades" htmlUrl="https://community.meraki.com/t5/Firmware-Upgrades-Feed/bg-p/firmwareupgrades" />
+      <outline text="Meraki Status - Incident History" type="rss" title="Meraki Status - Incident History" xmlUrl="https://status.meraki.net/history.atom" htmlUrl="https://status.meraki.net/history.atom" />
+    </outline>
+    <outline text="Newsletters" title="Newsletters">
+      <outline text="selfh.st Newsletter" type="rss" title="selfh.st Newsletter" xmlUrl="https://selfh.st/rss/" htmlUrl="https://selfh.st/" />
+    </outline>
+    <outline text="Release Updates" title="Release Updates">
+      <outline text="AdGuardHome" type="rss" title="AdGuardHome" xmlUrl="https://github.com/AdguardTeam/AdGuardHome/releases.atom" htmlUrl="https://github.com/AdguardTeam/AdGuardHome/releases.atom" />
+      <outline text="Ant-Media-Server" type="rss" title="Ant-Media-Server" xmlUrl="https://github.com/ant-media/Ant-Media-Server/releases.atom" htmlUrl="https://github.com/ant-media/Ant-Media-Server/releases.atom" />
+      <outline text="apprise" type="rss" title="apprise" xmlUrl="https://github.com/caronc/apprise/releases.atom" htmlUrl="https://github.com/caronc/apprise/releases.atom" />
+      <outline text="audiobookshelf" type="rss" title="audiobookshelf" xmlUrl="https://github.com/advplyr/audiobookshelf/releases.atom" htmlUrl="https://github.com/advplyr/audiobookshelf/releases.atom" />
+      <outline text="beszel" type="rss" title="beszel" xmlUrl="https://github.com/henrygd/beszel/releases.atom" htmlUrl="https://github.com/henrygd/beszel/releases.atom" />
+      <outline text="checkrr" type="rss" title="checkrr" xmlUrl="https://github.com/aetaric/checkrr/releases.atom" htmlUrl="https://github.com/aetaric/checkrr/releases.atom" />
+      <outline text="clipable" type="rss" title="clipable" xmlUrl="https://github.com/clipable/clipable/releases.atom" htmlUrl="https://github.com/clipable/clipable/releases.atom" />
+      <outline text="cloudflare-ddns" type="rss" title="cloudflare-ddns" xmlUrl="https://github.com/favonia/cloudflare-ddns/releases.atom" htmlUrl="https://github.com/favonia/cloudflare-ddns/releases.atom" />
+      <outline text="codex.docs" type="rss" title="codex.docs" xmlUrl="https://github.com/codex-team/codex.docs/releases.atom" htmlUrl="https://github.com/codex-team/codex.docs/releases.atom" />
+      <outline text="commafeed" type="rss" title="commafeed" xmlUrl="https://github.com/Athou/commafeed/releases.atom" htmlUrl="https://github.com/Athou/commafeed/releases.atom" />
+      <outline text="diun" type="rss" title="diun" xmlUrl="https://github.com/crazy-max/diun/releases.atom" htmlUrl="https://github.com/crazy-max/diun/releases.atom" />
+      <outline text="docker-adguardhome-sync" type="rss" title="docker-adguardhome-sync" xmlUrl="https://github.com/linuxserver/docker-adguardhome-sync/releases.atom" htmlUrl="https://github.com/linuxserver/docker-adguardhome-sync/releases.atom" />
+      <outline text="Docker Compose" type="rss" title="Docker Compose" xmlUrl="https://github.com/docker/compose/releases.atom" htmlUrl="https://github.com/docker/compose/releases.atom" />
+      <outline text="docmost" type="rss" title="docmost" xmlUrl="https://github.com/docmost/docmost/releases.atom" htmlUrl="https://github.com/docmost/docmost/releases.atom" />
+      <outline text="dozzle" type="rss" title="dozzle" xmlUrl="https://github.com/amir20/dozzle/releases.atom" htmlUrl="https://github.com/amir20/dozzle/releases.atom" />
+      <outline text="enclosed" type="rss" title="enclosed" xmlUrl="https://github.com/CorentinTh/enclosed/releases.atom" htmlUrl="https://github.com/CorentinTh/enclosed/releases.atom" />
+      <outline text="filebrowser" type="rss" title="filebrowser" xmlUrl="https://github.com/filebrowser/filebrowser/releases.atom" htmlUrl="https://github.com/filebrowser/filebrowser/releases.atom" />
+      <outline text="firefly-iii" type="rss" title="firefly-iii" xmlUrl="https://github.com/firefly-iii/firefly-iii/releases.atom" htmlUrl="https://github.com/firefly-iii/firefly-iii/releases.atom" />
+      <outline text="frigate" type="rss" title="frigate" xmlUrl="https://github.com/blakeblackshear/frigate/releases.atom" htmlUrl="https://github.com/blakeblackshear/frigate/releases.atom" />
+      <outline text="Ghost" type="rss" title="Ghost" xmlUrl="https://github.com/TryGhost/Ghost/releases.atom" htmlUrl="https://github.com/TryGhost/Ghost/releases.atom" />
+      <outline text="gluetun" type="rss" title="gluetun" xmlUrl="https://github.com/qdm12/gluetun/releases.atom" htmlUrl="https://github.com/qdm12/gluetun/releases.atom" />
+      <outline text="gitea" type="rss" title="gitea" xmlUrl="https://github.com/go-gitea/gitea/releases.atom" htmlUrl="https://github.com/go-gitea/gitea/releases.atom" />
+      <outline text="Gotify" type="rss" title="Gotify" xmlUrl="https://github.com/gotify/server/releases.atom" htmlUrl="https://github.com/gotify/server/releases.atom" />
+      <outline text="homebridge" type="rss" title="homebridge" xmlUrl="https://github.com/homebridge/homebridge/releases.atom" htmlUrl="https://github.com/homebridge/homebridge/releases.atom" />
+      <outline text="Homepage" type="rss" title="Homepage" xmlUrl="https://github.com/gethomepage/homepage/releases.atom" htmlUrl="https://github.com/gethomepage/homepage/releases.atom" />
+      <outline text="immich" type="rss" title="immich" xmlUrl="https://github.com/immich-app/immich/releases.atom" htmlUrl="https://github.com/immich-app/immich/releases.atom" />
+      <outline text="ImmichFrame" type="rss" title="ImmichFrame" xmlUrl="https://github.com/immichFrame/ImmichFrame/releases.atom" htmlUrl="https://github.com/immichFrame/ImmichFrame/releases.atom" />
+      <outline text="immich-public-proxy" type="rss" title="immich-public-proxy" xmlUrl="https://github.com/alangrainger/immich-public-proxy/releases.atom" htmlUrl="https://github.com/alangrainger/immich-public-proxy/releases.atom" />
+      <outline text="InvokeAI" type="rss" title="InvokeAI" xmlUrl="https://github.com/invoke-ai/InvokeAI/releases.atom" htmlUrl="https://github.com/invoke-ai/InvokeAI/releases.atom" />
+      <outline text="it-tools" type="rss" title="it-tools" xmlUrl="https://github.com/CorentinTh/it-tools/releases.atom" htmlUrl="https://github.com/CorentinTh/it-tools/releases.atom" />
+      <outline text="iVentoy PXE" type="rss" title="iVentoy PXE" xmlUrl="https://github.com/ventoy/PXE/releases.atom" htmlUrl="https://github.com/ventoy/PXE/releases.atom" />
+      <outline text="Jellystat" type="rss" title="Jellystat" xmlUrl="https://github.com/CyferShepard/Jellystat/releases.atom" htmlUrl="https://github.com/CyferShepard/Jellystat/releases.atom" />
+      <outline text="minio" type="rss" title="minio" xmlUrl="https://github.com/minio/minio/releases.atom" htmlUrl="https://github.com/minio/minio/releases.atom" />
+      <outline text="Movie-Roulette" type="rss" title="Movie-Roulette" xmlUrl="https://github.com/sahara101/Movie-Roulette/releases.atom" htmlUrl="https://github.com/sahara101/Movie-Roulette/releases.atom" />
+      <outline text="netbootxyz - LSIO" type="rss" title="netbootxyz - LSIO" xmlUrl="https://github.com/linuxserver/docker-netbootxyz/releases.atom" htmlUrl="https://github.com/linuxserver/docker-netbootxyz/releases.atom" />
+      <outline text="netdata" type="rss" title="netdata" xmlUrl="https://github.com/netdata/netdata/releases.atom" htmlUrl="https://github.com/netdata/netdata/releases.atom" />
+      <outline text="Nexterm" type="rss" title="Nexterm" xmlUrl="https://github.com/gnmyt/Nexterm/releases.atom" htmlUrl="https://github.com/gnmyt/Nexterm/releases.atom" />
+      <outline text="NPM Updates" type="rss" title="NPM Updates" xmlUrl="https://github.com/NginxProxyManager/nginx-proxy-manager/releases.atom" htmlUrl="https://github.com/NginxProxyManager/nginx-proxy-manager/releases.atom" />
+      <outline text="OctoPrint" type="rss" title="OctoPrint" xmlUrl="https://github.com/OctoPrint/OctoPrint/releases.atom" htmlUrl="https://github.com/OctoPrint/OctoPrint/releases.atom" />
+      <outline text="open-webui" type="rss" title="open-webui" xmlUrl="https://github.com/open-webui/open-webui/releases.atom" htmlUrl="https://github.com/open-webui/open-webui/releases.atom" />
+      <outline text="openedai-speech" type="rss" title="openedai-speech" xmlUrl="https://github.com/matatonic/openedai-speech/releases.atom" htmlUrl="https://github.com/matatonic/openedai-speech/releases.atom" />
+      <outline text="Overseerr" type="rss" title="Overseerr" xmlUrl="https://github.com/sct/overseerr/releases.atom" htmlUrl="https://github.com/sct/overseerr/releases.atom" />
+      <outline text="paperless-ai" type="rss" title="paperless-ai" xmlUrl="https://github.com/clusterzx/paperless-ai/releases.atom" htmlUrl="https://github.com/clusterzx/paperless-ai/releases.atom" />
+      <outline text="paperless-ngx" type="rss" title="paperless-ngx" xmlUrl="https://github.com/paperless-ngx/paperless-ngx/releases.atom" htmlUrl="https://github.com/paperless-ngx/paperless-ngx/releases.atom" />
+      <outline text="PeaNUT" type="rss" title="PeaNUT" xmlUrl="https://github.com/Brandawg93/PeaNUT/releases.atom" htmlUrl="https://github.com/Brandawg93/PeaNUT/releases.atom" />
+      <outline text="pinchflat" type="rss" title="pinchflat" xmlUrl="https://github.com/kieraneglin/pinchflat/releases.atom" htmlUrl="https://github.com/kieraneglin/pinchflat/releases.atom" />
+      <outline text="Plex Media Server" type="rss" title="Plex Media Server" xmlUrl="https://forums.plex.tv/t/plex-media-server/30447.rss" htmlUrl="https://forums.plex.tv/t/plex-media-server/30447" />
+      <outline text="plex-utills" type="rss" title="plex-utills" xmlUrl="https://github.com/jkirkcaldy/plex-utills/releases.atom" htmlUrl="https://github.com/jkirkcaldy/plex-utills/releases.atom" />
+      <outline text="plexis" type="rss" title="plexis" xmlUrl="https://github.com/plexis-js/plexis/releases.atom" htmlUrl="https://github.com/plexis-js/plexis/releases.atom" />
+      <outline text="Portainer Updates" type="rss" title="Portainer Updates" xmlUrl="https://github.com/portainer/portainer/releases.atom" htmlUrl="https://github.com/portainer/portainer/releases.atom" />
+      <outline text="Posterr" type="rss" title="Posterr" xmlUrl="https://github.com/petersem/posterr/releases.atom" htmlUrl="https://github.com/petersem/posterr/releases.atom" />
+      <outline text="Proxmox Announcements" type="rss" title="Proxmox Announcements" xmlUrl="https://forum.proxmox.com/forums/announcements.7/index.rss" htmlUrl="https://forum.proxmox.com/forums/announcements.7/" />
+      <outline text="Proxmox Server Solutions GmbH - Announcements" type="rss" title="Proxmox Server Solutions GmbH - Announcements" xmlUrl="https://my.proxmox.com/en/announcements/rss" htmlUrl="https://my.proxmox.com/index.php/en/announcements" />
+      <outline text="rmmagent" type="rss" title="rmmagent" xmlUrl="https://github.com/amidaware/rmmagent/releases.atom" htmlUrl="https://github.com/amidaware/rmmagent/releases.atom" />
+      <outline text="scrutiny" type="rss" title="scrutiny" xmlUrl="https://github.com/AnalogJ/scrutiny/releases.atom" htmlUrl="https://github.com/AnalogJ/scrutiny/releases.atom" />
+      <outline text="searxng:master" type="rss" title="searxng:master" xmlUrl="https://github.com/searxng/searxng/commits/master.atom" htmlUrl="https://github.com/searxng/searxng/commits/master.atom" />
+      <outline text="Semaphore Updates" type="rss" title="Semaphore Updates" xmlUrl="https://github.com/semaphoreui/semaphore/releases.atom" htmlUrl="https://github.com/semaphoreui/semaphore/releases.atom" />
+      <outline text="speedtest-tracker" type="rss" title="speedtest-tracker" xmlUrl="https://github.com/linuxserver/docker-speedtest-tracker/releases.atom" htmlUrl="https://github.com/linuxserver/docker-speedtest-tracker/releases.atom" />
+      <outline text="Spoolman" type="rss" title="Spoolman" xmlUrl="https://github.com/Donkie/Spoolman/releases.atom" htmlUrl="https://github.com/Donkie/Spoolman/releases.atom" />
+      <outline text="Statping" type="rss" title="Statping" xmlUrl="https://github.com/statping/statping/releases.atom" htmlUrl="https://github.com/statping/statping/releases.atom" />
+      <outline text="SuggestArr" type="rss" title="SuggestArr" xmlUrl="https://github.com/giuseppe99barchetta/SuggestArr/releases.atom" htmlUrl="https://github.com/giuseppe99barchetta/SuggestArr/releases.atom" />
+      <outline text="Tautulli Updates" type="rss" title="Tautulli Updates" xmlUrl="https://github.com/Tautulli/Tautulli/releases.atom" htmlUrl="https://github.com/Tautulli/Tautulli/releases.atom" />
+      <outline text="Tdarr" type="rss" title="Tdarr" xmlUrl="https://github.com/HaveAGitGat/Tdarr/releases.atom" htmlUrl="https://github.com/HaveAGitGat/Tdarr/releases.atom" />
+      <outline text="TrueNAS Community Updates" type="rss" title="TrueNAS Community Updates" xmlUrl="https://www.truenas.com/community/forums/-/index.rss" htmlUrl="https://www.truenas.com/community/" />
+      <outline text="tubearchivist" type="rss" title="tubearchivist" xmlUrl="https://github.com/tubearchivist/tubearchivist/releases.atom" htmlUrl="https://github.com/tubearchivist/tubearchivist/releases.atom" />
+      <outline text="tubearchivist-plex" type="rss" title="tubearchivist-plex" xmlUrl="https://github.com/tubearchivist/tubearchivist-plex/releases.atom" htmlUrl="https://github.com/tubearchivist/tubearchivist-plex/releases.atom" />
+      <outline text="tududi" type="rss" title="tududi" xmlUrl="https://github.com/chrisvel/tududi/releases.atom" htmlUrl="https://github.com/chrisvel/tududi/releases.atom" />
+      <outline text="Uptime-Kuma Updates" type="rss" title="Uptime-Kuma Updates" xmlUrl="https://github.com/louislam/uptime-kuma/releases.atom" htmlUrl="https://github.com/louislam/uptime-kuma/releases.atom" />
+      <outline text="vaultwarden" type="rss" title="vaultwarden" xmlUrl="https://github.com/dani-garcia/vaultwarden/releases.atom" htmlUrl="https://github.com/dani-garcia/vaultwarden/releases.atom" />
+      <outline text="Ventoy" type="rss" title="Ventoy" xmlUrl="https://github.com/ventoy/Ventoy/releases.atom" htmlUrl="https://github.com/ventoy/Ventoy/releases.atom" />
+      <outline text="Wallos" type="rss" title="Wallos" xmlUrl="https://github.com/ellite/Wallos/releases.atom" htmlUrl="https://github.com/ellite/Wallos/releases.atom" />
+      <outline text="wizarr" type="rss" title="wizarr" xmlUrl="https://github.com/wizarrrr/wizarr/releases.atom" htmlUrl="https://github.com/wizarrrr/wizarr/releases.atom" />
+      <outline text="xbackbone" type="rss" title="xbackbone" xmlUrl="https://github.com/linuxserver/docker-xbackbone/releases.atom" htmlUrl="https://github.com/linuxserver/docker-xbackbone/releases.atom" />
+      <outline text="zoraxy" type="rss" title="zoraxy" xmlUrl="https://github.com/tobychui/zoraxy/releases.atom" htmlUrl="https://github.com/tobychui/zoraxy/releases.atom" />
+    </outline>
+    <outline text="Security" title="Security">
+      <outline text="Ubuntu security notices" type="rss" title="Ubuntu security notices" xmlUrl="https://ubuntu.com/security/notices/rss.xml" htmlUrl="https://ubuntu.com/security/notices/rss.xml" />
+    </outline>
+    <outline text="Servarr" title="Servarr">
+      <outline text="Bazarr LSIO" type="rss" title="Bazarr LSIO" xmlUrl="https://github.com/linuxserver/docker-bazarr/releases.atom" htmlUrl="https://github.com/linuxserver/docker-bazarr/releases.atom" />
+      <outline text="Lidarr LSIO" type="rss" title="Lidarr LSIO" xmlUrl="https://github.com/linuxserver/docker-lidarr/releases.atom" htmlUrl="https://github.com/linuxserver/docker-lidarr/releases.atom" />
+      <outline text="Prowlarr LSIO" type="rss" title="Prowlarr LSIO" xmlUrl="https://github.com/linuxserver/docker-prowlarr/releases.atom" htmlUrl="https://github.com/linuxserver/docker-prowlarr/releases.atom" />
+      <outline text="Radarr LSIO" type="rss" title="Radarr LSIO" xmlUrl="https://github.com/linuxserver/docker-radarr/releases.atom" htmlUrl="https://github.com/linuxserver/docker-radarr/releases.atom" />
+      <outline text="Readarr LSIO" type="rss" title="Readarr LSIO" xmlUrl="https://github.com/linuxserver/docker-readarr/releases.atom" htmlUrl="https://github.com/linuxserver/docker-readarr/releases.atom" />
+      <outline text="Sabnzbd LSIO" type="rss" title="Sabnzbd LSIO" xmlUrl="https://github.com/linuxserver/docker-sabnzbd/releases.atom" htmlUrl="https://github.com/linuxserver/docker-sabnzbd/releases.atom" />
+      <outline text="Sonarr LSIO" type="rss" title="Sonarr LSIO" xmlUrl="https://github.com/linuxserver/docker-sonarr/releases.atom" htmlUrl="https://github.com/linuxserver/docker-sonarr/releases.atom" />
+    </outline>
+    <outline text="Unifi" title="Unifi">
+      <outline text="UniFi Gateways | Releases | Ubiquiti Community" type="rss" title="UniFi Gateways | Releases | Ubiquiti Community" xmlUrl="https://community.ui.com/rss/releases/UniFi-Gateways/fc326a79-1cd8-4663-97e1-e68687e67fbd" htmlUrl="https://community.ui.com" />
+      <outline text="UniFi Access Point | Releases | Ubiquiti Community" type="rss" title="UniFi Access Point | Releases | Ubiquiti Community" xmlUrl="https://community.ui.com/rss/releases/UniFi-Access-Point-Switch-LTE/9fc3b2fa-9e73-449a-924f-470e79884470" htmlUrl="https://community.ui.com" />
+      <outline text="UniFi Network Application | Releases | Ubiquiti Community" type="rss" title="UniFi Network Application | Releases | Ubiquiti Community" xmlUrl="https://community.ui.com/rss/releases/Releases/e6712595-81bb-4829-8e42-9e2630fabcfe" htmlUrl="https://community.ui.com" />
+      <outline text="UniFi Switch | Releases | Ubiquiti Community" type="rss" title="UniFi Switch | Releases | Ubiquiti Community" xmlUrl="https://community.ui.com/rss/releases/UniFi-Switch/f5882c6b-e77f-45c1-b019-68fd20000c31" htmlUrl="https://community.ui.com" />
+    </outline>
+  </body>
+</opml>
